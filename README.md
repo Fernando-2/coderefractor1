@@ -1,2 +1,2 @@
 # coderefractor1
-updating already existing html/css
+For this Homework I had to adjust the semantics of the html by updating it to more modern HTML 5 semantics, as well as fixing the code structure of both the html and the css. Some of the correction I had to make were thing like changing all div tags to more modern tags such as aritcle or section and adding alt attributes to all image tags. Css changes included making all of the class names with the same code I would just put them in the same line as they had the same code.
